@@ -1,0 +1,22 @@
+{
+  "name": "11th-week-prac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "addForDummies.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klikknpro/11th-week-prac.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klikknpro/11th-week-prac/issues"
+  },
+  "homepage": "https://github.com/klikknpro/11th-week-prac#readme",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
