@@ -1,4 +1,5 @@
-// torolheto
+// DEPRECATED
+
 // const testThis = (expected, actual, description) => {
 //   console.log(description);
 //   if (expected === actual) console.log("Success");

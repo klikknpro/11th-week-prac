@@ -1,3 +1,5 @@
+// uzleti logika kiszervezve
+
 console.log("Lof@sz!");
 
 const addForDummies = (num1, num2) => {
@@ -6,12 +8,12 @@ const addForDummies = (num1, num2) => {
   const addNums = number1 + number2;
   let result = addNums;
   if (addNums < 0) result = 0;
-  if (addNums >= 10) result = "sok";
+  if (addNums > 10) result = "sok";
 
   return result;
 };
 
 module.exports = addForDummies;
-
+// ez menne az App.js-be
 // kulon comp lesz
 // fuggetlen logika
